@@ -2,14 +2,14 @@
 
 ## Loại bài
 
-**Cá nhân.** Bạn nộp **hai thứ** lên LMS **https://aithucchien.vinuni.edu.vn** (hoặc kênh giảng viên chỉ định), bằng tài khoản của mình:
+**Cá nhân.** Bạn nộp **hai thứ** lên LMS **https://aithucchien.vinuni.edu.vn** (hoặc kênh giảng viên chỉ định), bằng tài khoản của mình: vanhvuuu2006-bit
 
 1. **Link repo public** của bạn. Repo chứa báo cáo `report/individual/<MSSV>_<HoTen>.md`, bảng A `submission/D13-<MSSV>-bangA.csv`, phiếu tự kiểm `submission/D13-<MSSV>-tukiem.csv`, và dòng tiêu đề README mang họ tên, MSSV. Coach chấm phần vẽ từ bảng A trong repo.
 2. **File zip ảnh** `work/K5-L23-DAY13-<MSSV>-images.zip` do `python scripts/lab.py pack` tạo, gồm 11 ảnh chụp trong `report/individual/images/`. Ảnh **không** lên repo public vì có ảnh camera thật (người, biển số).
 
 ## Tên repo
 
-Repo đề bài (dùng chung cho L2 và L3):
+Repo đề bài (dùng chung cho L2 và L3): 
 
 ```text
 K5-L23-Day13-PointCloud-Cuboid-Lab
